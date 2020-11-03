@@ -9,5 +9,4 @@ public class DsresearchApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DsresearchApplication.class, args);
 	}
-
 }
